@@ -21,6 +21,12 @@ exclude:
   - Gemfile.lock
   - LICENSE.md
   - README.md
+  - node_modules
+  - yarn.lock
+  - package.json
+  - .prettierignore
+  - .prettierrc.json
+  - .gitignore
 
 sass:
   sass_dir: _sass
